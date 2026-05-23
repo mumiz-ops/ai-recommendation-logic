@@ -3,7 +3,7 @@
 #  Algorithm : Content-Based Filtering
 #             (TF-IDF Vectorization + Cosine Similarity)
 #  Dataset   : Tech Stack / Job Roles
-#  Author    : Mumiz | mumizahmad30@gmail.com
+#  Author    : Mumiz Ahmad | mumizahmad30@gmail.com
 # ============================================================
 
 import numpy as np
