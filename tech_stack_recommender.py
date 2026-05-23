@@ -3,7 +3,7 @@
 #  Algorithm : Content-Based Filtering
 #             (TF-IDF Vectorization + Cosine Similarity)
 #  Dataset   : Tech Stack / Job Roles
-#  Author    : DecodeLabs Intern | Batch 2026
+#  Author    : Mumiz | mumizahmad30@gmail.com
 # ============================================================
 
 import numpy as np
