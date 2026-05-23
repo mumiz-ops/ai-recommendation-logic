@@ -1,6 +1,6 @@
-# 🤖 Project 3 — AI Recommendation Logic (Tech Stack Recommender)
+#  AI Recommendation Logic (Tech Stack Recommender)
 
-> **DecodeLabs Industrial Training Kit | Batch 2026**
+> **Industrial Training**
 
 ---
 
@@ -45,8 +45,8 @@ User Skills         →    TF-IDF Vectorization  →    Top-3 Job Roles
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mumiz-ops/decodelabs-ai-project3.git
-cd mumiz-ops-ai-project3
+git clone https://github.com/mumiz-ops/ai-recommendation-logic.git
+cd mumiz-ops-ai-recommendation-logic
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -100,4 +100,3 @@ decodelabs-ai-project3/
 
 **Mumiz Ahmad**
 📧 mumizahmad30@gmail.com
-🏢 DecodeLabs Internship | Batch 2026
